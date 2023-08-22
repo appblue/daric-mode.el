@@ -1,6 +1,9 @@
 # daric-mode.el
 Basic Daric language (http://dariclang.com/) support for Emacs.
 
+This package is completely based on fantastic 'basic-mode' package from Johan Dykstrom, available at
+https://github.com/dykstrom/daric-mode. I have just adapted it for Daric, but I'm going to move forward with the implementation of Daric specific features.
+
 ## Installation
 To install manually, place daric-mode.el in your load-path, and add the following lines of code to your init file:
 
